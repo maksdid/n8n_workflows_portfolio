@@ -60,4 +60,5 @@ Each folder contains a ready-to-import `workflow.json` and a screenshot of the c
 
 ## Contact
 
-[your Telegram / LinkedIn / email]
+Tg - @maksyand
+Gm - maksikandri@gmail.com 
